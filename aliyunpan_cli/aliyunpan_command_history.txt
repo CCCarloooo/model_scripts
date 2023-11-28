@@ -1,0 +1,14 @@
+help
+login
+exit
+upload /mnt/data2/mxdi/archive/LLaVA/checkpoints/llava-v1.5-7b
+upload /mnt/data2/mxdi/archive/LLaVA/checkpoints/llava-v1.5-7b /models
+upload /mnt/data2/mxdi/archive/LLaVA/checkpoints/llava-v1.5-7b-pretrain /models
+login
+567aa17fd5414259872f2b445e81a39e
+login
+ls
+cd kuaichuan
+cd 来自：快传/
+ls
+download llava-sft-v1.5-7b-pretrained-mlp2x_gelu/ llava-sft-v1.5-13b-pretrained-mlp2x_gelu/ --saveto /mnt/data2/mxdi/models

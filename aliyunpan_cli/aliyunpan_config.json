@@ -1,0 +1,119 @@
+{
+ "configVer": "1.0",
+ "activeUID": "5da892ee47a143748093f6f7602535fb",
+ "userList": [
+  {
+   "userId": "5da892ee47a143748093f6f7602535fb",
+   "nickname": "Carlo_",
+   "accountName": "155***280",
+   "workdir": "/来自：快传",
+   "workdirFileEntity": {
+    "driveId": "1830824",
+    "domainId": "bj29",
+    "fileId": "6565bfa97d1d7d0045e7427c92e8b533238a3d8b",
+    "fileName": "来自：快传",
+    "fileSize": 0,
+    "fileType": "folder",
+    "createdAt": "2023-11-28 18:23:37",
+    "updatedAt": "2023-11-28 18:23:37",
+    "fileExtension": "",
+    "uploadId": "",
+    "parentFileId": "root",
+    "crc64Hash": "",
+    "contentHash": "",
+    "contentHashName": "",
+    "path": "/来自：快传",
+    "category": "",
+    "syncFlag": false,
+    "syncMeta": ""
+   },
+   "resourceWorkdir": "",
+   "resourceWorkdirFileEntity": {
+    "driveId": "",
+    "domainId": "",
+    "fileId": "",
+    "fileName": "",
+    "fileSize": 0,
+    "fileType": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "fileExtension": "",
+    "uploadId": "",
+    "parentFileId": "",
+    "crc64Hash": "",
+    "contentHash": "",
+    "contentHashName": "",
+    "path": "",
+    "category": "",
+    "syncFlag": false,
+    "syncMeta": ""
+   },
+   "albumWorkdir": "",
+   "albumWorkdirFileEntity": {
+    "driveId": "",
+    "domainId": "",
+    "fileId": "",
+    "fileName": "",
+    "fileSize": 0,
+    "fileType": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "fileExtension": "",
+    "uploadId": "",
+    "parentFileId": "",
+    "crc64Hash": "",
+    "contentHash": "",
+    "contentHashName": "",
+    "path": "",
+    "category": "",
+    "syncFlag": false,
+    "syncMeta": ""
+   },
+   "activeDriveId": "1830824",
+   "driveList": [
+    {
+     "driveId": "1830824",
+     "driveName": "备份盘",
+     "driveTag": "File"
+    },
+    {
+     "driveId": "1724819920",
+     "driveName": "资源库",
+     "driveTag": "Resource"
+    },
+    {
+     "driveId": "386073650",
+     "driveName": "相册",
+     "driveTag": "Album"
+    }
+   ],
+   "refreshToken": "95fca601193649b7bfdfdcb080c9c4e3",
+   "webToken": {
+    "accessTokenType": "Bearer",
+    "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1ZGE4OTJlZTQ3YTE0Mzc0ODA5M2Y2Zjc2MDI1MzVmYiIsImN1c3RvbUpzb24iOiJ7XCJjbGllbnRJZFwiOlwiMjVkelgzdmJZcWt0Vnh5WFwiLFwiZG9tYWluSWRcIjpcImJqMjlcIixcInNjb3BlXCI6W1wiRFJJVkUuQUxMXCIsXCJTSEFSRS5BTExcIixcIkZJTEUuQUxMXCIsXCJVU0VSLkFMTFwiLFwiVklFVy5BTExcIixcIlNUT1JBR0UuQUxMXCIsXCJTVE9SQUdFRklMRS5MSVNUXCIsXCJCQVRDSFwiLFwiT0FVVEguQUxMXCIsXCJJTUFHRS5BTExcIixcIklOVklURS5BTExcIixcIkFDQ09VTlQuQUxMXCIsXCJTWU5DTUFQUElORy5MSVNUXCIsXCJTWU5DTUFQUElORy5ERUxFVEVcIl0sXCJyb2xlXCI6XCJ1c2VyXCIsXCJyZWZcIjpcImh0dHBzOi8vd3d3LmFsaXl1bmRyaXZlLmNvbS9cIixcImRldmljZV9pZFwiOlwiOTVmY2E2MDExOTM2NDliN2JmZGZkY2IwODBjOWM0ZTNcIn0iLCJleHAiOjE3MDExODA1OTUsImlhdCI6MTcwMTE3MzMzNX0.C_0Z0pchdfAFW5xcGdJg5odHGzt8Cd93Vl5lMEnQU0A_E1cBph7j9uZ_q4jBimcrmkRMDN_Dv4LALzCF4AUGtmxz1_tELXR6UklZ_ZCBZV_EHArlpWjvT6rgOlFX7Ticl-jMO8QkgVTp4z5BwFarnmp87izfXLM3zjBXJlgwKCg",
+    "refreshToken": "95fca601193649b7bfdfdcb080c9c4e3",
+    "expiresIn": 7200,
+    "expireTime": "2023-11-28 22:09:55"
+   },
+   "tokenId": ""
+  }
+ ],
+ "cacheSize": 0,
+ "maxDownloadParallel": 0,
+ "maxUploadParallel": 0,
+ "maxDownloadRate": 0,
+ "maxUploadRate": 0,
+ "transferUrlType": 0,
+ "saveDir": "/home/mxd/Downloads",
+ "proxy": "",
+ "localAddrs": "",
+ "updateCheckInfo": {
+  "preferUpdateSrv": "",
+  "latestVer": "v0.2.8",
+  "checkTime": 1701167274
+ },
+ "videoFileExtensions": "mp4,flv,mkv,mov,rm,rmvb,wmv,wma,mv,asf,asx,mpg,mpeg,mpe,3gp,m4v,avi,vob",
+ "fileRecordConfig": "1",
+ "deviceId": "nxNxpXMUp9E6ojYuXTBq7K7O",
+ "deviceName": "Chrome浏览器"
+}
